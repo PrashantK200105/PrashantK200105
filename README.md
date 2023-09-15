@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Gurung</h1>
 <h3 align="center">A passionate web developer.</h3>
-<img align=“right” Width=“400” src=“https://tenor.com/en-GB/view/coding-gif-24090007”>
+<img align=“right” alt=“Code” Width=“400” src=“https://tenor.com/en-AU/view/coding-gif-24090007”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantk200105&label=Profile%20views&color=0e75b6&style=flat" alt="prashantk200105" /> </p>
 
