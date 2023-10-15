@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashant69861" target="blank"><img src="https://img.shields.io/twitter/follow/prashant69861?logo=twitter&style=for-the-badge" alt="prashant69861" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, REACT AND PHP**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, REACT, PYTHON AND PHP**
 
 - 📫 How to reach me **PRASHANT.GURUNG303@GMAIL.COM**
 
