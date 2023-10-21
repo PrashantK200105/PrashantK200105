@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Gurung</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="[Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantk200105&label=Profile%20views&color=0e75b6&style=flat" alt="prashantk200105" /> </p>
